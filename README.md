@@ -76,9 +76,9 @@ features/
 ├── y_reg_valence.npy             (from Notebook 1)
 ├── y_clf_arousal.npy             (from Notebook 1)
 ├── y_clf_valence.npy             (from Notebook 1)
-├── slow_linear_audio_k.npy       (from Notebook 2, k ∈ [5,10,15,20,25,30])
-├── slow_deg2_audio_k.npy         (from Notebook 2, k ∈ [5,10,15,20,25,30])
-├── slow_deg3_audio_k.npy         (from Notebook 2, k ∈ [5,10,15,20,25,30])
+├── slow_linear_all_k.npy         (from Notebook 2, k ∈ [5,10,15,20,25,30])
+├── slow_deg2_all_k.npy           (from Notebook 2, k ∈ [5,10,15,20,25,30])
+├── slow_deg3_all_k.npy           (from Notebook 2, k ∈ [5,10,15,20,25,30])
 └── experiment_data.pkl           (from Notebook 3 — consolidated data object)
 
 results/
